@@ -10,3 +10,6 @@ const Home = () => {
 }
 
 export default Home
+
+
+//Login and Registration Form Design
